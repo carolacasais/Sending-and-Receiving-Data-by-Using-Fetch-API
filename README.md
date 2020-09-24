@@ -8,7 +8,7 @@ El objetivo del ejercicio es obtener la lista de personas por mesa en una confer
 él generar mesas a las que se les vayan añadiendo las personas.
 4. **Dificultad o problemas presentados y como se resolvieron:**
 No se me ejecuta bien ya que:
-A) Si hago click en IIS express microft edge me salta el siguiente error: Vaya… no se puede obtener acceso a esta página
+ A) Si hago click en IIS express Microsoft Edge me salta el siguiente error: Vaya… no se puede obtener acceso a esta página
 Parece que la página web de file:///C:/%5CProgramData%5CMicrosoft%5CVisualStudio%5CEdgeAdapter%5Cee14d85e/landingPage.html podría tener problemas o que 
 se haya movido de forma permanente a una nueva dirección web.
 B) Si le doy a start without debugging me sale la página pero al darle al botón de "get persons" para ver la lista de personas no me aparece nada. He comprobado con el fichero
